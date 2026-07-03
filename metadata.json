@@ -1,0 +1,6 @@
+{
+  "name": "Alumni Management System",
+  "description": "A modern client-side Alumni Management System with secure local login, registration, and complete CRUD operations for managing alumni records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
